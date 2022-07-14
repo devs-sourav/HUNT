@@ -1,0 +1,1555 @@
+@media(min-width:1200px) and (max-width:1399px) {
+    .big_line img {
+        height: 837px;
+        top: -23px;
+    }
+    .left_image{
+        background: #fff;
+    }
+    .inner_about_image {
+        width: 280px;
+        height: 280px;
+    }
+    .about_image {
+        width: 315px;
+        height: 315px;
+    }
+    .left_main_about .dot_shape {
+        right: -56px;
+    }
+    .right_main_about .dot_shape {
+        left: -56px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .ban_content p {
+        margin-bottom: 35px;
+    }
+    .ban_content {
+        margin-top: 40px;
+    }
+    #about {
+        margin-bottom: 40px;
+    }
+    .inner_about_image {
+        width: 230px;
+        height: 230px;
+    }
+    .left_main_about .dot_shape {
+        right: -46px;
+    }
+    .right_main_about .dot_shape {
+        left: -46px;
+    }
+    .top_about {
+        margin-bottom: 35px;
+    }
+    .main_top_about .dot_shape {
+        bottom: -46px;
+    }
+    .bottom_about {
+        margin-top: 32px;
+    }
+    .bottom_about {
+        margin-bottom: 40px;
+    }
+    .about_image {
+        width: 275px;
+        height: 275px;
+    }
+    .bottom_main_about .dot_shape {
+        top: -46px;
+    }
+    .top_about,.left_about,.right_about,.bottom_about {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .big_line img {
+        height: 889px;
+        top: -20px;
+        left: 50%;
+    }
+    .service_bottom_shape {
+        bottom: -169px;
+    }
+    .left_image{
+        background: #fff;
+    }
+    .track_item {
+        width: 32.2%;
+    }
+    .track_cont{
+        row-gap: 16px;
+    }
+    .about_bottom_shape {
+        height: 105px;
+        bottom: -144px;
+        right: -10px;
+    }
+    .foot_body_cont .link1 {
+        font-size: 13px;
+    }
+ 
+}
+
+@media(min-width:768px) and (max-width:991.99px) {
+
+    /* Navbar Start here */
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #755b2f;
+        position: static;
+        background: #111;
+    }
+    #price {
+        padding-bottom: 50px;
+        position: relative;
+    }
+    .mfg {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .navbar-brand {
+        transform: scale(0.9);
+        -webkit-transform: scale(0.9);
+        -moz-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        -o-transform: scale(0.9);
+    }
+    .toogler i{
+        font-size: 22px;
+    }
+    .hide i{
+        font-size: 22px;
+    }
+
+    /* Navbar End here */
+
+    /* Banner Part Start Here */
+    .ban_content h1 {
+        font-size: 66px;
+        margin-bottom: 30px;
+    }
+
+    .ban_content h2 {
+        font-size: 32px;
+        margin-bottom: 36px;
+    }
+
+    .ban_content p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 30px;
+        padding: 0 40px;
+    }
+
+    .prev,
+    .next {
+        display: none !important;
+    }
+
+    .banner_bottom_shape {
+        display: none;
+    }
+
+    .ban_btn button {
+        padding: 14px 25px;
+        margin-right: 15px;
+        font-size: 16px;
+    }
+
+    #hire {
+        padding: 14px 39px !important;
+    }
+
+    .header {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+    .header h2 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+    .header p {
+        font-size: 15px;
+        line-height: 24px;
+        padding: 0 40px;
+        margin-bottom: 10px;
+    }
+
+    /* Banner Part End Here */
+
+
+    /* About Part Start Here */
+    .top_about .shape,
+    .right_about .shape,
+    .bottom_about .shape,
+    .left_about .shape {
+        display: none;
+    }
+
+    .main_top_about .dot_shape,
+    .bottom_main_about .dot_shape,
+    .right_main_about .dot_shape,
+    .left_main_about .dot_shape {
+        display: none;
+    }
+
+    .top_about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-bottom: 40px;
+    }
+
+    .top_about h3, .left_about h3, .right_about h3, .bottom_about h3 {
+        font-size: 24px;
+        margin-bottom: 25px;
+    }
+
+    .top_about p,
+    .right_about p,
+    .bottom_about p,
+    .left_about p {
+        font-size: 16px;
+        line-height: 24px;
+        padding: 0 40px;
+    }
+
+    .dfd {
+        margin-top: 0 !important;
+    }
+
+    .inner_about_image {
+        width: 360px;
+        height: 360px;
+
+    }
+
+    .about_image {
+        width: 400px;
+        height: 400px;
+        margin: 30px auto !important;
+    }
+
+    .dgh {
+        margin-bottom: 0 !important;
+    }
+
+    .about_bottom_shape {
+        display: none;
+    }
+
+    /* About Part End Here */
+
+    /* Portfolio Part Start here */
+
+    #portfolio {
+        padding: 40px 0;
+        padding-bottom: 40px !important;
+    }
+
+    .port_head h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .port_head p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .port_head {
+        margin-bottom: 30px;
+        padding: 30px 20px;
+    }
+
+    .mtttt {
+        margin-top: 25px;
+    }
+
+    .main_port {
+        margin-bottom: 15px;
+    }
+
+    .dfddd {
+        margin-bottom: 0 !important;
+    }
+
+    /* Portfolio Part end here */
+
+    /* Service Part Start Here */
+    .big_line {
+        display: none;
+    }
+
+    .serv_top {
+        display: none;
+    }
+
+    .serv_bottom {
+        display: none;
+    }
+
+    .left_serv h3 {
+        margin: 0 auto;
+        font-size: 25px;
+    }
+
+    .right_serv p {
+        font-size: 15px;
+    }
+
+    .mid_serv {
+        margin: 30px auto;
+    }
+
+    .right_serv {
+        padding: 30px 15px;
+        text-align: center;
+    }
+
+    .serv_contain {
+        margin-top: 10px;
+    }
+
+    .inner_service:nth-child(even) .row {
+        flex-direction: column-reverse;
+    }
+
+    .gfgf .shape {
+        display: none;
+    }
+
+    .fgfg .shape {
+        display: none;
+    }
+
+    .inner_service.slick-center .col-lg-2 .mid_serv {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    /* Service Part End Here */
+
+    /* Comment Slider Part Start here */
+    .com_bottom a {
+        display: none !important;
+    }
+
+    .com_top a {
+        display: none !important;
+    }
+
+    .com_line {
+        display: none;
+    }
+
+    .service_bottom_shape {
+        display: none;
+    }
+
+    .com_right_image {
+        margin: 0 10px;
+    }
+
+    #comment {
+        padding: 35px 0;
+    }
+
+    .main_left_com {
+        padding-top: 0px;
+        padding-bottom: 12px;
+    }
+
+    .Left_com_slide {
+        text-align: center;
+    }
+
+    .left_image {
+        margin-bottom: 20px;
+        margin-left: 8px;
+        margin-right: 0;
+        margin-top: 15px;
+        width: 77px;
+        height: 77px;
+    }
+
+    .left_image img {
+        margin-top: 12px;
+        margin-left: 0px;
+    }
+
+    .main_left_com .slick-center .left_image {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    /* Comment Slider Part Start here */
+
+    /* Pricig Slider Start Here */
+    .price_container .shape {
+        width: 550px;
+        top: -99px;
+    }
+
+    .shape2 {
+        height: 70px;
+        width: 628px;
+        top: -69px;
+    }
+
+    .price_item {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+
+    /* Pricig Slider End Here */
+
+    /* Tracking Part Start Here */
+    .track_cont {
+        flex-wrap: wrap !important;
+        row-gap: 15px;
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .price_bottom_shape {
+        display: none;
+    }
+
+    .track_item h3 {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .track_item {
+        padding: 25px 20px;
+        width: 32%;
+    }
+    .track_cont .tack_item:last-child {
+        margin-right: auto !important;
+    }
+    .track_item h4 {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    #track {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+
+    /* Tracking Part Start Here */
+
+    /* Team SLider Start Here */
+    .bottom_team .shape {
+        display: none;
+    }
+
+    .bottom_team {
+        padding-top: 30px;
+    }
+
+    /* Team Slider end here */
+
+    /* Sponsor Part Start here */
+    .sponsor_cont {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .sponsor_item {
+        padding: 20px 0;
+    }
+
+    #sponsor {
+        padding-top: 30px;
+        padding-bottom: 1px;
+    }
+
+    .sponsor_item a {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .sponsor_bottom_shape {
+        display: none;
+    }
+
+    /* Sponsor Part Start here */
+    #footer::after {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        display: none;
+    }
+
+    .foot_head_cont {
+        margin-top: 0;
+    }
+
+    .foot_head_cont a {
+        padding-bottom: 20px;
+
+    }
+
+
+    .foot_body .row .col-lg-3:first-child .foot_body_cont {
+        padding-top: 40px !important;
+        margin-top: 0;
+
+    }
+
+    .foot_body .row:first-child {
+        display: none;
+    }
+
+    .ddsas {
+        position: relative;
+    }
+
+    .ddsas:after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        left: 0;
+        top: 80px;
+        background: #755b2f;
+    }
+
+    .foot_body_bottom h4 {
+        margin-top: 40px;
+    }
+
+    .foot_body_bottom_link {
+        margin-bottom: 25px;
+        column-gap: 40px;
+    }
+
+    .foot_link {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .foot_body_cont .link1 {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    #footer {
+        padding-top: 30px;
+    }
+
+    .foot_body_cont::after {
+        display: none;
+    }
+
+    .foot_body_cont {
+        margin-top: 35px;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.99px) {
+
+    /* Navbar Start here */
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+        border-bottom: 1px solid #755b2f;
+        position: static;
+        background: #111;
+    }
+
+    .mfg {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .navbar-brand {
+        transform: scale(0.7);
+        -webkit-transform: scale(0.7);
+        -moz-transform: scale(0.7);
+        -ms-transform: scale(0.7);
+        -o-transform: scale(0.7);
+    }
+
+    /* Navbar End here */
+
+    /* Banner Part Start Here */
+    .ban_content h1 {
+        font-size: 55px;
+        margin-bottom: 20px;
+    }
+
+    .ban_content h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .ban_content p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+
+    .prev,
+    .next {
+        display: none !important;
+    }
+
+    .banner_bottom_shape {
+        display: none;
+    }
+
+    .ban_btn button {
+        padding: 10px 25px;
+        margin-right: 15px;
+        font-size: 16px;
+    }
+
+    #hire {
+        padding: 12px 39px !important;
+    }
+
+    .header {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .header h2 {
+        font-size: 36px;
+        margin-bottom: 18px;
+    }
+
+    .header p {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+
+    /* Banner Part End Here */
+
+
+    /* About Part Start Here */
+    .top_about .shape,
+    .right_about .shape,
+    .bottom_about .shape,
+    .left_about .shape {
+        display: none;
+    }
+
+    .main_top_about .dot_shape,
+    .bottom_main_about .dot_shape,
+    .right_main_about .dot_shape,
+    .left_main_about .dot_shape {
+        display: none;
+    }
+
+    .top_about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-bottom: 40px;
+    }
+
+    .top_about h3,
+    .left_about h3,
+    .right_about h3,
+    .bottom_about h3 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+
+    .top_about p,
+    .right_about p,
+    .bottom_about p,
+    .left_about p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .dfd {
+        margin-top: 0 !important;
+    }
+
+    .inner_about_image {
+        width: 300px;
+        height: 300px;
+    }
+
+    .about_image {
+        width: 340px;
+        height: 340px;
+        margin: 30px auto !important;
+    }
+
+    .dgh {
+        margin-bottom: 0 !important;
+    }
+
+    .about_bottom_shape {
+        display: none;
+    }
+
+    /* About Part End Here */
+
+    /* Portfolio Part Start here */
+
+    #portfolio {
+        padding: 40px 0;
+        padding-bottom: 40px !important;
+    }
+
+    .port_head h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .port_head p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .port_head {
+        margin-bottom: 30px;
+        padding: 30px 20px;
+    }
+
+    .mtttt {
+        margin-top: 25px;
+    }
+
+    .main_port {
+        margin-bottom: 15px;
+    }
+
+    .dfddd {
+        margin-bottom: 0 !important;
+    }
+
+    /* Portfolio Part end here */
+
+    /* Service Part Start Here */
+    .big_line {
+        display: none;
+    }
+
+    .serv_top {
+        display: none;
+    }
+
+    .serv_bottom {
+        display: none;
+    }
+
+    .left_serv h3 {
+        margin: 0 auto;
+        font-size: 25px;
+    }
+
+    .right_serv p {
+        font-size: 15px;
+    }
+
+    .mid_serv {
+        margin: 30px auto;
+    }
+
+    .right_serv {
+        padding: 30px 15px;
+        text-align: center;
+    }
+
+    .serv_contain {
+        margin-top: 10px;
+    }
+
+    .inner_service:nth-child(even) .row {
+        flex-direction: column-reverse;
+    }
+
+    .gfgf .shape {
+        display: none;
+    }
+
+    .fgfg .shape {
+        display: none;
+    }
+
+    .inner_service.slick-center .col-lg-2 .mid_serv {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    /* Service Part End Here */
+
+    /* Comment Slider Part Start here */
+    .com_bottom a {
+        display: none !important;
+    }
+
+    .com_top a {
+        display: none !important;
+    }
+
+    .com_line {
+        display: none;
+    }
+
+    .service_bottom_shape {
+        display: none;
+    }
+
+    .com_right_image {
+        margin: 0 10px;
+    }
+
+    #comment {
+        padding: 35px 0;
+    }
+
+    .main_left_com {
+        padding-top: 0px;
+        padding-bottom: 12px;
+    }
+
+    .Left_com_slide {
+        text-align: center;
+    }
+
+    .left_image {
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 15px;
+        width: 90px;
+        height: 90px;
+    }
+
+    .left_image img {
+        padding-right: 8px;
+    }
+
+    .main_left_com .slick-center .left_image {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    /* Comment Slider Part Start here */
+
+    /* Pricig Slider Start Here */
+    .price_container .shape {
+        width: 550px;
+        top: -99px;
+    }
+
+    .shape2 {
+        height: 70px;
+        width: 628px;
+        top: -69px;
+    }
+
+    .price_item {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+
+    /* Pricig Slider End Here */
+
+    /* Tracking Part Start Here */
+    .track_cont {
+        flex-wrap: wrap !important;
+        row-gap: 15px;
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .price_bottom_shape {
+        display: none;
+    }
+
+    .track_item h3 {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .track_item {
+        padding: 25px 20px;
+        width: 48.5%;
+    }
+
+    .track_item h4 {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    #track {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+
+    /* Tracking Part Start Here */
+
+    /* Team SLider Start Here */
+    .bottom_team .shape {
+        display: none;
+    }
+
+    .bottom_team {
+        padding-top: 30px;
+    }
+
+    /* Team Slider end here */
+
+    /* Sponsor Part Start here */
+    .sponsor_cont {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .sponsor_item {
+        padding: 20px 0;
+    }
+
+    #sponsor {
+        padding-top: 30px;
+        padding-bottom: 1px;
+    }
+
+    .sponsor_item a {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .sponsor_bottom_shape {
+        display: none;
+    }
+
+    /* Sponsor Part Start here */
+    #footer::after {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        display: none;
+    }
+
+    .foot_head_cont {
+        margin-top: 0;
+    }
+
+    .foot_head_cont a {
+        padding-bottom: 20px;
+
+    }
+
+
+    .foot_body .row .col-lg-3:first-child .foot_body_cont {
+        padding-top: 40px !important;
+        margin-top: 0;
+
+    }
+
+    .foot_body .row:first-child {
+        display: none;
+    }
+
+    .ddsas {
+        position: relative;
+    }
+
+    .ddsas:after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        left: 0;
+        top: 80px;
+        background: #755b2f;
+    }
+
+    .foot_body_bottom h4 {
+        margin-top: 40px;
+    }
+
+    .foot_body_bottom_link {
+        margin-bottom: 22px;
+        column-gap: 20px;
+    }
+
+    .foot_link {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .foot_body_cont .link1 {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    #footer {
+        padding-top: 30px;
+    }
+
+    .foot_body_cont::after {
+        display: none;
+    }
+
+    .foot_body_cont {
+        margin-top: 35px;
+    }
+}
+
+@media(max-width:575.99px) {
+
+    /* Navbar Start here */
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+        border-bottom: 1px solid #755b2f;
+        position: static;
+        background: #111;
+    }
+
+    .navbar-brand {
+        transform: scale(0.7);
+        -webkit-transform: scale(0.7);
+        -moz-transform: scale(0.7);
+        -ms-transform: scale(0.7);
+        -o-transform: scale(0.7);
+    }
+
+    /* Navbar End here */
+
+    /* Banner Part Start Here */
+    .ban_content h1 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .ban_content h2 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .ban_content p {
+        font-size: 13px;
+        line-height: 14px;
+        margin-bottom: 7px;
+    }
+
+    .prev,
+    .next {
+        display: none !important;
+    }
+
+    .banner_bottom_shape {
+        display: none;
+    }
+
+    .ban_btn button {
+        padding: 5px 12px;
+        margin-right: 10px;
+        font-size: 14px;
+    }
+
+    #hire {
+        padding: 5px 26px !important;
+    }
+
+    .header {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .header h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .header p {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+
+    /* Banner Part End Here */
+
+
+    /* About Part Start Here */
+    .top_about .shape,
+    .right_about .shape,
+    .bottom_about .shape,
+    .left_about .shape {
+        display: none;
+    }
+
+    .main_top_about .dot_shape,
+    .bottom_main_about .dot_shape,
+    .right_main_about .dot_shape,
+    .left_main_about .dot_shape {
+        display: none;
+    }
+
+    .top_about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 20px;
+        padding-right: 25px;
+        margin-bottom: 15px;
+    }
+
+    .top_about h3,
+    .left_about h3,
+    .right_about h3,
+    .bottom_about h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .top_about p,
+    .right_about p,
+    .bottom_about p,
+    .left_about p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .dfd {
+        margin-top: 0 !important;
+    }
+
+    .inner_about_image {
+        width: 260px;
+        height: 260px;
+
+    }
+
+    .about_image {
+        width: 290px;
+        height: 290px;
+        margin: 20px auto !important;
+    }
+
+    .dgh {
+        margin-bottom: 0 !important;
+    }
+
+    .about_bottom_shape {
+        display: none;
+    }
+
+    /* About Part End Here */
+
+    /* Portfolio Part Start here */
+
+    #portfolio {
+        padding: 40px 0;
+        padding-bottom: 40px !important;
+    }
+
+    .port_head h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .port_head p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .port_head {
+        margin-bottom: 30px;
+        padding: 30px 20px;
+    }
+
+    .mtttt {
+        margin-top: 15px;
+    }
+
+    .main_port {
+        margin-bottom: 15px;
+    }
+
+    .dfddd {
+        margin-bottom: 0 !important;
+    }
+
+    /* Portfolio Part end here */
+
+    /* Service Part Start Here */
+    .big_line {
+        display: none;
+    }
+
+    .serv_top {
+        display: none;
+    }
+
+    .serv_bottom {
+        display: none;
+    }
+
+    .left_serv h3 {
+        margin: 0 auto;
+        font-size: 25px;
+    }
+
+    .mid_serv {
+        margin: 30px auto;
+    }
+
+    .right_serv {
+        padding: 30px 15px;
+        text-align: center;
+    }
+
+    .serv_contain {
+        margin-top: 10px;
+    }
+
+    .inner_service:nth-child(even) .row {
+        flex-direction: column-reverse;
+    }
+
+    .gfgf .shape {
+        display: none;
+    }
+
+    .fgfg .shape {
+        display: none;
+    }
+
+    .inner_service.slick-center .col-lg-2 .mid_serv {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    /* Service Part End Here */
+
+    /* Comment Slider Part Start here */
+    .com_bottom a {
+        display: none !important;
+    }
+
+    .com_top a {
+        display: none !important;
+    }
+
+    .com_line {
+        display: none;
+    }
+
+    .service_bottom_shape {
+        display: none;
+    }
+
+    .com_right_image {
+        margin: 0 10px;
+    }
+
+    #comment {
+        padding: 35px 0;
+    }
+
+    .main_left_com {
+        padding-top: 0px;
+        padding-bottom: 12px;
+    }
+
+    .Left_com_slide {
+        text-align: center;
+    }
+
+    .left_image {
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 15px;
+        width: 90px;
+        height: 90px;
+    }
+
+    .left_image img {
+        padding-right: 8px;
+    }
+
+    .main_left_com .slick-center .left_image {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    /* Comment Slider Part Start here */
+
+    /* Pricig Slider Start Here */
+    .price_container .shape {
+        width: 550px;
+        top: -99px;
+    }
+
+    .shape2 {
+        height: 70px;
+        width: 628px;
+        top: -69px;
+    }
+
+    .price_item {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+
+    /* Pricig Slider End Here */
+
+    /* Tracking Part Start Here */
+    .track_cont {
+        flex-wrap: wrap !important;
+        row-gap: 15px;
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .price_bottom_shape {
+        display: none;
+    }
+
+    .track_item h3 {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .track_item {
+        padding: 25px 20px;
+        width: 100%;
+    }
+    
+
+    .track_item h4 {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    #track {
+        padding-top: 34px;
+        padding-bottom: 40PX;
+    }
+
+    /* Tracking Part Start Here */
+
+    /* Team SLider Start Here */
+    .bottom_team .shape {
+        display: none;
+    }
+
+    .bottom_team {
+        padding-top: 30px;
+    }
+
+    /* Team Slider end here */
+
+    /* Sponsor Part Start here */
+    .sponsor_cont {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .sponsor_item {
+        padding: 20px 0;
+    }
+
+    #sponsor {
+        padding-top: 30px;
+        padding-bottom: 1px;
+    }
+
+    .sponsor_item a {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+    }
+
+    .sponsor_bottom_shape {
+        display: none;
+    }
+
+    /* Sponsor Part Start here */
+    #footer::after {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        display: none;
+    }
+
+    .foot_head_cont {
+        margin-top: 0;
+    }
+
+    .foot_head_cont a {
+        padding-bottom: 20px;
+
+    }
+
+
+    .foot_body .row .col-lg-3:first-child .foot_body_cont {
+        padding-top: 40px !important;
+        margin-top: 0;
+
+    }
+
+    .foot_body .row:first-child {
+        border-top: 1px solid #755b2f;
+    }
+
+    .foot_body_bottom h4 {
+        margin-top: 40px;
+    }
+
+    .foot_body_bottom_link {
+        margin-bottom: 22px;
+        column-gap: 20px;
+    }
+
+    .foot_link {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .foot_body_cont .link1 {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    #footer {
+        padding-top: 30px;
+    }
+
+    .foot_body_cont::after {
+        display: none;
+    }
+
+    .foot_body_cont {
+        margin-top: 35px;
+    }
+
+
+    @media(min-width:400px) and (max-width:575.99px) {
+        .mfg {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        .ytyt {
+            margin-left: 60px;
+            margin-right: 60px;
+        }
+
+        @media(min-width:450px) and (max-width:575.99px) {
+            .mfg {
+                padding-left: 50px;
+                padding-right: 50px;
+            }
+
+            .ytyt {
+                margin-left: 100px;
+                margin-right: 100px;
+            }
+        }
+
+    }
+}
